@@ -2,7 +2,7 @@
 
 Models LinearRegression, RidgeCV, LassoCV, ElasticNetCV have been compared for predicitng proice of houses in in Ames housing data set.
 
-FOr each model I have trained it predicted the prices once using all the features (and features I engineered) in traing data and once with K features selected by SelectKBest of scikit learn libray from the data.I have tried to find the best number for k with testing different values of k in the code
+For each model I have trained it predicted the prices once using all the features (and features I engineered) in traing data and once with K features selected by SelectKBest of scikit learn libray from the data.I have tried to find the best number for k with testing different values of k in the code
 
 
 About models used in this notebook
