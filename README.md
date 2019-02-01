@@ -1,10 +1,10 @@
 # Ames-housing-data-ML
 
-The prediction for price of the houses in Ames housing data set has been modeled with this four models:
+he notebook consists of the predictions for house prices in Ames housing data set modeled by:
 LinearRegression, RidgeCV, LassoCV, ElasticNetCV.
 
-The result of predictions with this models using all the features(engineered features that imade) or
-only k features selected by SelectKBest of scikit learn libray are also has been compared .
+Result of predictions with this models has been tested with using all the features(engineered features that imade) or
+only k features selected by SelectKBest of scikit learn libray.
 
 about models used in this notebook
 https://www.youtube.com/watch?v=1dKRdX9bfIo
