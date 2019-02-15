@@ -1,6 +1,6 @@
 # House-Prices-Advanced-Regression-Techniques
 
-[](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/logos/front_page.png)
+![](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/logos/front_page.png)
 
 This is the repository for [Kaggle House Prices Advanced Regression Techniques competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
