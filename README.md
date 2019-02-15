@@ -2,11 +2,18 @@
 
 This is the repository for [Kaggle House Prices Advanced Regression Techniques competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
-My implementation in this notebook has the error of 0.11433 on the public leader board .
+I got the error of 0.11433 on the public leader board .
 
-The note books contain comments and step by step guide for the implementation of the models used.
+* Please read the notebooks for more information and step by step guide of the solution.
 
-you can also find the kernel I have created for this competion in here :[Kernel](https://www.kaggle.com/aiden98/house-prices-error-0-11433?scriptVersionId=10566989)
+* You can also find the kernel I have created for this competion in here :[Kernel](https://www.kaggle.com/aiden98/house-prices-error-0-11433?scriptVersionId=10566989)
 
-About the data set:
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+### About the models used:
+#### stacking :
+[guide to model stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
+
+#### ensembling: 
+[guide to ensembling](https://mlwave.com/kaggle-ensembling-guide/)
+
+#### Booting:
+[guide to boosting algorithms](https://hackernoon.com/boosting-algorithms-adaboost-gradient-boosting-and-xgboost-f74991cad38c)
