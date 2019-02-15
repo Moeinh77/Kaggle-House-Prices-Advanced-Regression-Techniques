@@ -2,7 +2,7 @@
 
 This is the repository for [Kaggle House Prices Advanced Regression Techniques competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
-I got the error of 0.11433 on the public leader board .
+I got the error of 0.11433 on the public leader board which lies somewhere between 3-7 % tops(because scores are reset every 2 month the position changes) .
 
 * Please read the notebooks for more information and step by step guide of the solution.
 
