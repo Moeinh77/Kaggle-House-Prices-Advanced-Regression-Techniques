@@ -7,7 +7,8 @@ I got the error of 0.11433 on the public leader board which lies somewhere betwe
 * Please read the notebooks for more information and step by step guide of the solution.
 
 * You can also find the kernel I have created for this competion in here :[Kernel](https://www.kaggle.com/aiden98/house-prices-error-0-11433?scriptVersionId=10566989)
---
+
+
 ### About the ensembling methods used:
 #### Stacking :
 [guide to model stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
